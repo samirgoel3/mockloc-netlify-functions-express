@@ -23,10 +23,10 @@ router.get('/users', (req, res) => {
   res.json({
     users: [
       {
-        name: 'steve',
+        name: 'Samir',
       },
       {
-        name: 'joe',
+        name: 'Edward',
       },
     ],
   })

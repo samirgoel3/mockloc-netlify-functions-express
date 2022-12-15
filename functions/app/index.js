@@ -70,10 +70,10 @@ export default function expressApp(functionName) {
     res.json({
       users: [
         {
-          name: 'steve',
+          name: 'Samir',
         },
         {
-          name: 'joe',
+          name: 'Paplu some thing elese',
         },
       ],
     })
